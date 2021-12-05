@@ -2,7 +2,7 @@
 
 # Overview 
 
-The purpose of the this project was to apply machine learning to review credit card risk. We used data provided by LendingClub, we tested various algorythims for acccuracy to ee which bests predicts low and high risk applicants.
+The purpose of the this project was to apply machine learning to review credit card risk. We used data provided by LendingClub, we tested various algorythims for acccuracy to see which bests predicts low and high risk applicants.
 
 # Results
 
@@ -51,7 +51,7 @@ The purpose of the this project was to apply machine learning to review credit c
 
 # Summary
 
-Of all the models, the random forest classifier had the highest accuracy at 91%. Followed by the easy ensemble at 79%, then smote 66% closly behind that random oversampling 65%. then  Combination over and under sampling 54% and finally cluster 45%. Given these results, I would recommend using the random forest classifer model if no ohter data or information is available. It had the highest overall accuracy.
+Of all the models, the random forest classifier had the highest accuracy at 91%. Followed by the easy ensemble at 79%, then smote 66% closly behind that random oversampling 65%. then  Combination over and under sampling 54% and finally cluster 45%. Given these results, I would recommend using the random forest classifer model as it had the highest overall accuracy.
 
 
 
